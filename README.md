@@ -1,3 +1,5 @@
 # my-first-repo
-Hello world, how are you
+
+Hello world, I think there will be merge conflicts
+
 Bye world
